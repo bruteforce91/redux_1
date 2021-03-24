@@ -1,0 +1,118 @@
+{
+    "heroes": [
+        {
+    "id": 1,
+    "name": "Deadpool",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzYU-5GapwNms89LS7MPHr0uGuixqdpdvOampq3Mr03jUsMvq0tLt-FrFzuBTbDPFfoA&usqp=CAU",
+    "powers": [
+                "Forza",
+                "Resistenza",
+                "Velocità",
+                "Agilità",
+                "Riflessi sovrumani",
+                "Immunità alla telepatia",
+                "Fattore rigenerante"
+            ],
+    "alterEgo": "Wade Winston Wilson"
+        },
+        {
+    "id": 2,
+    "name": "Venom",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-C3eSIEBx6jHIj_BxDmFaHfFiKPfIntd6WQ&usqp=CAU",
+    "powers": [
+                "Forza",
+                "Resistenza",
+                "Velocità",
+                "Agilità",
+                "Riflessi sovrumani",
+                "Immunità a malattie e veleni",
+                "Fattore rigenerante",
+                "Mutaforma"
+            ],
+    "alterEgo": "Eddie Brock"
+        },
+        {
+    "id": 3,
+    "name": "Captain America",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aG_L30_jVwhZyhCKl1PLBTyl0Y56ioMXAQ&usqp=CAU",
+    "powers": [
+                "Forza",
+                "Resistenza",
+                "Velocità",
+                "Agilità",
+                "Riflessi sovrumani",
+                "Immunità a malattie e veleni",
+                "Invecchiamento Rallentato"
+            ],
+    "alterEgo": "Steve Rogers"
+        },
+        {
+    "id": 4,
+    "name": "Thor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41mULTeNMBL._AC_.jpg",
+    "powers": [
+                "Forza",
+                "Resistenza",
+                "Velocità",
+                "Agilità",
+                "Riflessi sovrumani",
+                "Immunità a malattie e veleni",
+                "Grande Abilità nei combattimenti"
+            ],
+    "alterEgo": "nessuno"
+        },
+        {
+    "id": 5,
+    "name": "Iron Man",
+    "image": "https://2.bp.blogspot.com/-qiE_xBXKjHk/Ww_ttEGM5QI/AAAAAAAAHX0/crLnO5UvhKMuIipWfpkyV4NcXCJ1ZDnkQCLcBGAs/s1600/download.jpg",
+    "powers": [
+                "Forza",
+                "Velocità",
+                "Semi-invulnerabilità",
+                "Emissione di raggi repulsori",
+                "Controllo dei sistemi elettrici",
+                "Volo"
+            ],
+    "alterEgo": "Tony Stark"
+        },
+        {
+    "id": 6,
+    "name": "La Vedova Nera",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwTI3Rh8JgVK_eshXGousvU2x0WnW6Pf3yQ&usqp=CAU",
+    "powers": [
+                "Forza",
+                "Velocità",
+                "Coordinazione Motoria Sovrumana",
+                "Immunità alle malattie",
+                "Invecchiamento rallentato"
+            ],
+    "alterEgo": "Natasha Romanoff"
+        },
+        {
+    "id": 7,
+    "name": "Hulk",
+    "image": "https://i.ebayimg.com/images/g/QfEAAOSwkuRZelrd/s-l400.jpg",
+    "powers": [
+                "Forza",
+                "Velocità",
+                "Immortalità",
+                "Resistenza sovrumana",
+                "Furia Berserker"
+            ],
+    "alterEgo": "Bruce Banner"
+        },
+        {
+    "id": 8,
+    "name": "Spider Man",
+    "image": "https://r1.ilikewallpaper.net/iphone-xs-max-wallpapers/download/85391/spiderman-2002-iphone-xs-max-wallpaper-ilikewallpaper_com_1242x2688.jpg",
+    "powers": [
+                "Forza",
+                "Velocità",
+                "Fattore di guarigione",
+                "Senso di Ragno",
+                "Capacità di ragno"
+            ],
+    "alterEgo": "Peter Parker"
+        }
+    ]
+}

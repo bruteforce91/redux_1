@@ -1,0 +1,19 @@
+.SimpleCard{
+    margin:15px;
+    position: relative;
+    height:370px;
+}
+.card-body img{
+    height:50%;
+    width:100%
+}
+.btn-primary{
+    margin-right:10px;
+    position:absolute;
+    bottom:20px;
+}
+.btn-danger {
+    position:absolute;
+    bottom:20px;
+    left: 150px;
+}
